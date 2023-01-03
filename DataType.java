@@ -9,7 +9,7 @@ public class DataType {
 	    int c = 46;
 	    long d =21474836472L; 
 	    float e=30.33f;
-	    int f=(int)25.36;
+	    
 	    
 
 		System.out.println(a);
