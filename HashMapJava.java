@@ -8,7 +8,7 @@ public class HashMapJava {
 		nhm.clear();
 		nhm.containsKey(2);
 		nhm.equals(nhm);
-		
+		nhm.get(3);
 		nhm.keySet();
 		nhm.values();
 		nhm.put(2, "rahul");
