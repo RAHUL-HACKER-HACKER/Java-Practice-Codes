@@ -14,7 +14,7 @@ public class HashMapJava {
 		nhm.put(2, "rahul");
 		nhm.putAll(nhm);
 		nhm.remove(3);
-		nhm.size();
+		
 		nhm.toString();
 		nhm.replace(1, "kumar");
 		nhm.isEmpty();//or check by length
