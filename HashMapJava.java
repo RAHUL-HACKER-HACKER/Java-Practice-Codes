@@ -33,7 +33,7 @@ public class HashMapJava {
 		System.out.println(newhm.containsValue("rahul"));
 		System.out.println(newhm.toString());
 		newhm.replace(6, "singh");
-		System.out.println(newhm);
+		
 		
 		//HashMap declare
 		HashMap<Integer,String> hm1=new HashMap<>();
