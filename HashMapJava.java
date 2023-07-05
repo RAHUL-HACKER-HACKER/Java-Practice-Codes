@@ -14,7 +14,7 @@ public class HashMapJava {
 		nhm.put(2, "rahul");
 		nhm.putAll(nhm);
 		nhm.remove(3);
-		
+		nhm.size();
 		nhm.toString();
 		nhm.replace(1, "kumar");
 		nhm.isEmpty();//or check by length
@@ -33,7 +33,7 @@ public class HashMapJava {
 		System.out.println(newhm.containsValue("rahul"));
 		System.out.println(newhm.toString());
 		newhm.replace(6, "singh");
-		
+		System.out.println(newhm);
 		
 		//HashMap declare
 		HashMap<Integer,String> hm1=new HashMap<>();
