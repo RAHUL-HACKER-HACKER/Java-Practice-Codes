@@ -43,7 +43,7 @@ public class HashMapJava {
 		hm1.put(1,"Aam");//note duplicate key replace the value
 		hm1.put(2,"Apple");    
 		hm1.put(3,"Banana");   
-		
+		hm1.put(4,"Grapes");
 		System.out.println(hm1);
 		//putAll()
 		hm2.putAll(hm1);
