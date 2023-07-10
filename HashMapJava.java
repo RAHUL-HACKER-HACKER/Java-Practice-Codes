@@ -71,7 +71,7 @@ public class HashMapJava {
 		
 		//HashSet Keys return set because it can't be duplicate
 		HashSet<Integer> hs1=new HashSet<>(hm3.keySet());
-		System.out.println(hs1);
+		
 		
 		//iterate values
 		Set<Integer> k = hm3.keySet();
