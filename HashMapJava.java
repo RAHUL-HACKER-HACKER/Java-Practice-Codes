@@ -105,7 +105,7 @@ public class HashMapJava {
         }
 		
 		//clear()
-		System.out.println(hm3);
+		
 		hm3.clear();
 		System.out.println(hm3);
 		
