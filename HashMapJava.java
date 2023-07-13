@@ -106,7 +106,7 @@ public class HashMapJava {
 		
 		//clear()
 		
-		hm3.clear();
+		
 		System.out.println(hm3);
 		
 		//containsKey()
