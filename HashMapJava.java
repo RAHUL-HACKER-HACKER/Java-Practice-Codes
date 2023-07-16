@@ -131,7 +131,7 @@ public class HashMapJava {
 		//remove(key)
 		HashMap<Integer,String> hm4=new HashMap<>(hm1);
 		System.out.println(hm4);
-		hm4.remove(1);
+		
 		System.out.println(hm4);
 		
 		//or remove(key,value)
