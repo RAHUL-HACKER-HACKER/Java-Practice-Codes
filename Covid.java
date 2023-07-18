@@ -9,7 +9,7 @@ public class Covid {
 		System.out.println("enter any string value:");
 		String s1=scr.next();
 		System.out.println("entered string value:"+s1);
-		
+		int n=s1.length();
 		
 		
 		String s2="covid";
