@@ -31,7 +31,7 @@ public class Covid {
 			
 			
 			if(count1<=res1) {
-				
+				res1=count1;
 					
 			}
 				
