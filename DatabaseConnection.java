@@ -17,7 +17,7 @@ public class DatabaseConnection {
 			//String query="insert into Employee1(Eid,Ename,location,age) values(100,'"+rahu+"','"+kuch+"',19)";
 			
 		    String query="insert into Employee1(Eid,Ename,location,age) values(105,\"anand\",\"bihar\",19)";
-			
+			stmt.executeUpdate(query);
 			
 			
 			ResultSet rs=stmt.executeQuery("select* from Employee1;");
