@@ -29,7 +29,7 @@ public class DatabaseConnection {
 				System.out.println(Eid+" "+Ename+" "+location+" "+age);
 			}
 			
-			
+			stmt.close();
 			connection.close();
 			System.out.println("Completed successfuly");
 			JOptionPane.showMessageDialog(null, "Submit Successfuly");
