@@ -4,11 +4,15 @@ public class DataType {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		double a=23.456;
+
 	    short b = 30;
 	    int c = 46;
 	    long d =21474836472L; 
 	    float e=30.33f;
+		String f="rahul";
+		char g='r';
+		
 	    
 	    
 
