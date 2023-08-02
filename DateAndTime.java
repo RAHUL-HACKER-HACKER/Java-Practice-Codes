@@ -8,7 +8,7 @@ public class DateAndTime {
 	public static void main(String[] args) {
 		
 		//local date here
-		LocalDate today = LocalDate.now(); 
+		
 		System.out.println(today);
 		
 		//custom date
