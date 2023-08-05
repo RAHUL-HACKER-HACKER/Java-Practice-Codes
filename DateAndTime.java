@@ -9,7 +9,7 @@ public class DateAndTime {
 		
 		//local date
 		LocalDate today = LocalDate.now(); 
-		
+		System.out.println(today);
 		
 		//custom date
 		LocalDate customDate=LocalDate.of(2022, 3, 13);
