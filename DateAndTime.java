@@ -15,7 +15,7 @@ public class DateAndTime {
 		LocalDate customDate=LocalDate.of(2022, 3, 13);
 		System.out.println(customDate);
 		
-		
+		int dayOfMonth=today.getDayOfMonth();
 		
 		Month month=today.getMonth();
 		//or
