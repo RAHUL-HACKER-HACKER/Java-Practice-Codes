@@ -17,7 +17,7 @@ public class DateAndTime {
 		
 		int dayOfMonth=today.getDayOfMonth();
 		
-		Month month=today.getMonth();
+		
 		//or
 		int monthValue=today.getMonthValue();
 		
