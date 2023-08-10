@@ -21,7 +21,7 @@ public class DateAndTime {
 		//or
 		int monthValue=today.getMonthValue();
 		
-		int year=today.getYear();
+		
 		System.out.println(dayOfMonth);
 		System.out.println(month);
 		System.out.println(monthValue);
