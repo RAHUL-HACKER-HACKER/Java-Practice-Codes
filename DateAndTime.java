@@ -52,7 +52,7 @@ public class DateAndTime {
 		
 		//Separate time
 		
-		int minute=localTime.getMinute();
+	
 		int second=localTime.getSecond();
 		int nano=localTime.getNano();
 		System.out.println(hour);
