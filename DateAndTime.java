@@ -51,8 +51,8 @@ public class DateAndTime {
 		System.out.println(customTime);
 		
 		//Separate time
-		
-	
+		int hour=localTime.getHour();
+		int minute=localTime.getMinute();
 		int second=localTime.getSecond();
 		int nano=localTime.getNano();
 		System.out.println(hour);
