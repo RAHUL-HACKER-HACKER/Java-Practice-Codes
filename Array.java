@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Array {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// array list implementation
 		ArrayList<String> arr=new ArrayList<String>();
 		arr.add("rahul");
 		arr.add(" is");
