@@ -6,7 +6,7 @@ public class DataType {
 		// TODO Auto-generated method stub
 		
 	    short b = 30;
-	    
+	    int c = 46;
 	    long d =21474836472L; 
 	    float e=30.33f;
 	    int f=(int)25.36;
