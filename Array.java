@@ -8,7 +8,7 @@ public class Array {
 		
 		ArrayList<String> arr=new ArrayList<String>();
 	
-		arr.add(" is");
+		
 		arr.add(" a");
 		arr.add(" best");
 		arr.add(" engineer");
