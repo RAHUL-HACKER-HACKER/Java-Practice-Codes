@@ -10,8 +10,8 @@ public class Array {
 	  
 		arr.add("rahul");
 		arr.add(" a");
+		arr.add(" best");
 		
-		arr.add(" engineer");
 		System.out.println(arr);//1st execution
 		for(int i=0;i<arr.size();i++) {//2nd execution
 			
