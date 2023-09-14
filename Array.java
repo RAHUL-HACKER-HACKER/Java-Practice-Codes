@@ -10,7 +10,7 @@ public class Array {
 		arr.add(" engineer");
 		arr.add(" engineer2");
 		arr.add("rahul");
-		arr.add(" a");
+		
 		arr.add(" best");
 		
 		System.out.println(arr);//1st execution
