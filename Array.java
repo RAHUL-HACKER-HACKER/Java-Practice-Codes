@@ -13,7 +13,7 @@ public class Array {
 		
 		arr.add(" best");
 		
-		//1st execution
+		System.out.println(arr);//1st execution
 		for(int i=0;i<arr.size();i++) {//2nd execution
 			
 			System.out.print(arr.get(i));
