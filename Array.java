@@ -21,7 +21,7 @@ public class Array {
 		}
 		arr.set(4,"student");
 		arr.remove(3);
-		System.out.println("\n"+arr);
+		
 		
 
 	}
