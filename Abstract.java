@@ -22,7 +22,7 @@ class Tiger implements Animal1,FastAnimal{
 	@Override
 	public void run(int a) {
 		
-		System.out.println("run:"+a);
+		
 	}
 
 	@Override
